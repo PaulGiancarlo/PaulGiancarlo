@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... fb,twitter
 - 😄 Pronouns: ... let my thing
 - ⚡ Fun fact: ... fornite as IT skill
+
+<img src="https://generative-placeholders.glitch.me/image?width=600&height=300&style=cellular-automata&cells=50">
 <!--
 -->
