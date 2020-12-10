@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... let my think
 - ⚡ Fun fact: ... 
 
-![Image](src="https://generative-placeholders.glitch.me/image?width=600&height=300&style=cellular-automata&cells=50")
+
+{% figure caption:"fell like a ..." %}
+    ![Image](https://generative-placeholders.glitch.me/image?width=600&height=300&style=cellular-automata&cells=50)
+{% endfigure %}
 <!--
 -->
