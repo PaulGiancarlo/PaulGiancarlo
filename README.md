@@ -12,8 +12,11 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... profesional growth
 - 💬 Ask me about ... IT
 - 📫 How to reach me: ... fb,twitter
-- 😄 Pronouns: ... let my think
-- ⚡ Fun fact: ... 
+- 😄 Pronouns: ... let me think
+- ⚡ Fun fact: ... try this site: https://stegcloak.surge.sh
+
+    https://www.mecabricks.com/en/workshop 
+    is in https://threejs.org
 
 
 
