@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 						</a>
 						<!--End rollercoin.com code-->
 					
-<iframe src=”https://embed.theta.tv/e/chat/nasa border=”0” width=”100%” height=”100%”/>
+![Image]( src=”https://embed.theta.tv/e/chat/nasa)
 
-    ![Image](https://generative-placeholders.glitch.me/image?width=600&height=300&style=cellular-automata&cells=50)
+![Image](https://generative-placeholders.glitch.me/image?width=600&height=300&style=cellular-automata&cells=50)
 
 <!--
 -->
