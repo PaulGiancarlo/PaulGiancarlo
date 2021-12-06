@@ -6,18 +6,18 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Equifax at Programmer Analyst
+- 🔭 I’m currently working on Equifax at Software Engineer
 - 🌱 I’m currently learning ... how k8s works
 - 👯 I’m looking to collaborate on ... data procesing project
-- 🤔 I’m looking for help with ... profesional growth
-- 💬 Ask me about ... https://swapi.dev
+- 🤔 I’m looking for help with ... ML
+- 💬 Ask me about ... https://swapi.dev,crypto,NFT,DEFI
 - 📫 How to reach me: ... fb,twitter
 - 😄 Pronouns: ... let me think
 - ⚡ Fun fact: ... try this site: https://stegcloak.surge.sh
 
     https://www.mecabricks.com/en/workshop 
     is in https://threejs.org
-
+Crypto Area:
 						<!--Start rollercoin.com code-->
 						<a href="https://rollercoin.com/?r=klzrcrl4">
 							<img src="//rollercoin.com/static/img/referral/banners/ref_336280.gif" alt="promo"/>
