@@ -18,17 +18,10 @@ Here are some ideas to get you started:
     https://www.mecabricks.com/en/workshop 
     is in https://threejs.org
 Crypto Area:
-						<!--Start rollercoin.com code-->
-						<a href="https://rollercoin.com/?r=klzrcrl4">
-							<img src="//rollercoin.com/static/img/referral/banners/ref_336280.gif" alt="promo"/>
-						</a>
-						<!--End rollercoin.com code-->
+
 ![Image](src="//rollercoin.com/static/img/referral/banners/ref_336280.gif" alt="promo")
 ![Image](href="https://rollercoin.com/?r=klzrcrl4")
 
 ![Image]( src=”https://embed.theta.tv/e/chat/nasa)
 
 ![Image](https://generative-placeholders.glitch.me/image?width=600&height=300&style=cellular-automata&cells=50)
-
-<!--
--->
