@@ -17,9 +17,11 @@ Here are some ideas to get you started:
 
     https://www.mecabricks.com/en/workshop 
     is in https://threejs.org
-Crypto Area:
+
+    Crypto Area:
 
 ![Image](src="//rollercoin.com/static/img/referral/banners/ref_336280.gif" alt="promo")
+
 ![Image](href="https://rollercoin.com/?r=klzrcrl4")
 
 ![Image]( src=”https://embed.theta.tv/e/chat/nasa)
