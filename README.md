@@ -6,9 +6,9 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Equifax at Software Engineer
-- 🌱 I’m currently learning ... how k8s works
-- 👯 I’m looking to collaborate on ... data procesing project
+- 🔭 I’m currently working as a freelancer Software Engineer
+- 🌱 I’m currently learning ... how ML prediction works
+- 👯 I’m looking to collaborate on ... Cool project 
 - 🤔 I’m looking for help with ... ML
 - 💬 Ask me about ... https://swapi.dev,crypto,NFT,DEFI
 - 📫 How to reach me: ... fb,twitter
