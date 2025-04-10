@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... Cool project 
 - 🤔 I’m looking for help with ... ML
 - 💬 Ask me about ... https://swapi.dev,crypto,NFT,DEFI
-- 📫 How to reach me: ... fb,twitter
+- 📫 How to find me: @paulgiancarlod on x
 - 😄 Pronouns: ... let me think
 - ⚡ Fun fact: ... try this site: https://stegcloak.surge.sh
 
